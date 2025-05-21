@@ -142,3 +142,4 @@ D:\study\CSharp\CompanyApi\src\CompanyApi\obj\Debug\net8.0\refint\CompanyApi.dll
 D:\study\CSharp\CompanyApi\src\CompanyApi\obj\Debug\net8.0\CompanyApi.pdb
 D:\study\CSharp\CompanyApi\src\CompanyApi\obj\Debug\net8.0\CompanyApi.genruntimeconfig.cache
 D:\study\CSharp\CompanyApi\src\CompanyApi\obj\Debug\net8.0\ref\CompanyApi.dll
+D:\study\CSharp\CompanyApi\src\CompanyApi\obj\Debug\net8.0\CompanyApi.sourcelink.json
