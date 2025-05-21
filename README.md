@@ -3,4 +3,4 @@ TO start the app you must have connection string setted up in your config file(a
     "DefaultConnection": "Your_connection_string"
   }
 
-I decided to not split project because scaffolding created Data folder in CampanyApi project and i think it can be a problem with references if I will create separate projects for DTO and Controllers 
+I decided to not split project because scaffolding created Data folder in CampanyApi project and i think it can be a problem with references if I will create separate projects for DTO and Controllers(I'm not sure about it, but if I can live everything in one project, there is no sense to risk).
