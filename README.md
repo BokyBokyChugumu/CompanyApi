@@ -20,6 +20,7 @@ The project follows a modular structure:
 * Models/ – Entity models representing database tables
 * Data/ – Database context and configurations
 * DTOs/ – Data Transfer Objects for request and response models
+
 Note: The project is currently contained within a single project file for simplicity. Future enhancements may include separating concerns into multiple projects.
 
 
